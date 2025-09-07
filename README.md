@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prem Kamothi
+#  Prem Kamothi
 
 ## 💡 About Me
 - 💻 Passionate App Developer 
