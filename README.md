@@ -22,7 +22,6 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=premkamothi&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
