@@ -22,8 +22,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=premkamothi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/><br/>
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=premkamothi&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
